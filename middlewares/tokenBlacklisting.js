@@ -15,3 +15,4 @@ export const isTokenBlacklisted = async (req, res, next) => {
         next(err);
     }
 };
+//Blacklisting of token End
